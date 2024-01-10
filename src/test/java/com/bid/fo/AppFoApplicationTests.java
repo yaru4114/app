@@ -8,6 +8,6 @@ class AppFoApplicationTests {
 
 	@Test
 	void contextLoads() {
-	}
+	} 
 
 }
